@@ -1,4 +1,4 @@
-# Regulatory-Affair-of-Road-Anlysis-Accident
+# Regulatory-Affair-of-Road-Accident-Anlysis
 Unifiled Intership project-2
 
 A comprehensive project aimed at analyzing road accidents and their regulatory implications using advanced data analytics and visualization techniques. This project integrates tools like Python, Pandas, Matplotlib, and Power BI to identify patterns, trends, and critical factors contributing to road accidents, assisting policymakers and stakeholders in improving road safety.
